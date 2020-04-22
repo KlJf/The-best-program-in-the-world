@@ -1,2 +1,2 @@
 # The-best-program-in-the-world
-Salam
+console.log('Hello Potato');
